@@ -1,5 +1,7 @@
 #ifndef FILENAME_H
 #define FILENAME_H
+
+// TODO: use std::string or boost::filesystem::path to implement this, and move it out of QtUIUtils
 #include <QString>
 #include <QList>
 
