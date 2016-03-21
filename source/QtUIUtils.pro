@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QMAKE_CXXFLAGS += -std=c++0x
+CONFIG = c++11
 
 QT       -= gui
 QT       += widgets
